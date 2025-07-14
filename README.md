@@ -18,4 +18,4 @@
 
 #OUTPUT
 
-https://github.com/user-attachments/assets/85004414-55a2-4c00-b262-87e2ca77a820
+![image](https://github.com/ANASAHMAD-CLOUD/DECISION-TREE-IMPLEMENTATION/blob/main/decision_tree_iris.png)
